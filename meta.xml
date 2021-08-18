@@ -1,0 +1,8 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="mapFixes" />
+	<script src="c_mapFixes.lua" type="client" cache="false" />
+	<script src="s_mapFixes.lua" type="server" />
+
+	<file src="LosSantos/road_lawn11.dff"/>
+	<file src="LasVenturas/vegassland36.col"/>
+</meta>
