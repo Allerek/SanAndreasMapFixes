@@ -10,7 +10,7 @@ Please report found bugs(both in fixes/original map) in 'Issues' tab.
   <summary>Los Santos</summary>
   <details>
   	<summary>road_lawn11</summary>
-      ![alt text](https://github.com/Allerek/SanAndreasMapFixes/blob/main/[Screenshots]/road_lawn11_before.png?raw=true)
+      ![image]("https://github.com/Allerek/SanAndreasMapFixes/blob/e4c9630a39aff8222d6f4952e28d7709ab386e60/%5BScreenshots%5D/road_lawn11_before.png")
   	
   
 </details>
